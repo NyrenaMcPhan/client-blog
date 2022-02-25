@@ -1,5 +1,6 @@
 html, body, h1, h2, h3, h4, ul, ol, li, p, a div {
-  background-image: url("/Users/codetalk/Desktop/leaves-g381b65952_1920.jpg");
+  background-image: url("/Users/codetalk/Desktop/photo-1556292026-bf74f176f6b2.jpg");
+  background-repeat: cover;
 
      background-color: #ededed;
      
@@ -118,7 +119,7 @@ h1 {
         
           padding-top: 10px;
           padding-bottom: 20px;
-          background: green;
+          background: rgb(86, 163, 23);
           
           
     }
